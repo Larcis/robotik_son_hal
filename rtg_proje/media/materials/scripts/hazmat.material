@@ -1,0 +1,71 @@
+material Hazmat1{
+  technique
+  {
+    pass
+    {
+      ambient 1.0 1.0 1.0 1.0
+      diffuse 1.0 1.0 1.0 1.0
+      specular 0.2 0.2 0.2 1.0 12.5
+
+      texture_unit
+      {
+        texture hazmat1.png
+        filtering trilinear
+      }
+    }
+  }
+}
+
+material Hazmat2{
+  technique
+  {
+    pass
+    {
+      ambient 1.0 1.0 1.0 1.0
+      diffuse 1.0 1.0 1.0 1.0
+      specular 0.2 0.2 0.2 1.0 12.5
+
+      texture_unit
+      {
+        texture hazmat2.png
+        filtering trilinear
+      }
+    }
+  }
+}
+
+material Hazmat3{
+  technique
+  {
+    pass
+    {
+      ambient 1.0 1.0 1.0 1.0
+      diffuse 1.0 1.0 1.0 1.0
+      specular 0.2 0.2 0.2 1.0 12.5
+
+      texture_unit
+      {
+        texture hazmat3.png
+        filtering trilinear
+      }
+    }
+  }
+}
+
+material Hazmat4{
+  technique
+  {
+    pass
+    {
+      ambient 1.0 1.0 1.0 1.0
+      diffuse 1.0 1.0 1.0 1.0
+      specular 0.2 0.2 0.2 1.0 12.5
+
+      texture_unit
+      {
+        texture hazmat4.png
+        filtering trilinear
+      }
+    }
+  }
+}

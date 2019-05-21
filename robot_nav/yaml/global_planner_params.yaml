@@ -1,0 +1,5 @@
+NavfnROS:
+    use_grid_path: true
+    default_tolerance: 0.1
+recovery_behavior_enabled: false
+clearing_rotation_allowed: false
